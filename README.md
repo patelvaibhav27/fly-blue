@@ -6,7 +6,7 @@ This is a starting point to demonstrate the method of authentication by verifyin
 
 ## Requirements
 
-- node and npm
+- node, npm and MongoDB
 
 ## Usage
 
